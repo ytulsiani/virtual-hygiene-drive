@@ -3,7 +3,7 @@
     top: 0;
     left: 0;
     width: 100%;
-    height: 1080px;
+    height: /*1080*/870px;
     border: 0;
 }
 .curbside-iframe {
@@ -22,13 +22,13 @@
 }
 @media screen and (min-width: 371px) and (max-width: 767px) {
     .iframe-container {
-        height: 2700px;
+        height: /*2700*/2400px;
         cursor: pointer;
     }
 }
 @media screen and (max-width: 370px) {
     .iframe-container {
-        height: 2700px;
+        height: /*2700*/2400px;
         margin-left: 5px;
         cursor: pointer;
     }
