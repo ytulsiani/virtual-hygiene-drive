@@ -7,7 +7,7 @@ var itemList = [
     "ourPrice": 10,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": “toothbrushes”
+    "nameReceipt": “Toothbrushes”
   },
 	  {
     "quantity": 0, 
@@ -17,7 +17,7 @@ var itemList = [
     "ourPrice": 15,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": “masks”
+    "nameReceipt": “Masks”
   },
 	  {
     "quantity": 0, 
@@ -27,7 +27,7 @@ var itemList = [
     "ourPrice": 20,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": “soap”
+    "nameReceipt": “Soap”
   },
 	  {
     "quantity": 0, 
@@ -37,7 +37,7 @@ var itemList = [
     "ourPrice": 25,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": “tissues”
+    "nameReceipt": “Tissues”
   },
 	  {
     "quantity": 0, 
@@ -47,7 +47,7 @@ var itemList = [
     "ourPrice": 30,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": “wipes”
+    "nameReceipt": “Wipes”
   },
 	  {
     "quantity": 0, 
@@ -57,7 +57,7 @@ var itemList = [
     "ourPrice": 35,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": “chapstick”
+    "nameReceipt": “Chapstick”
   },
 	  {
     "quantity": 0, 
@@ -67,7 +67,7 @@ var itemList = [
     "ourPrice": 40,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": “razors”
+    "nameReceipt": “Razors”
   },
 	  {
     "quantity": 0, 
@@ -77,7 +77,7 @@ var itemList = [
     "ourPrice": 45,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": “toothpaste”
+    "nameReceipt": “Toothpaste”
   },
 	  {
     "quantity": 0, 
@@ -87,7 +87,7 @@ var itemList = [
     "ourPrice": 55,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": “shampoo”
+    "nameReceipt": “Shampoo”
   },
 	  {
     "quantity": 0, 
@@ -97,7 +97,7 @@ var itemList = [
     "ourPrice": 60,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": “deodorant”
+    "nameReceipt": “Deodorant”
   },
 	  {
     "quantity": 0, 
@@ -107,7 +107,7 @@ var itemList = [
     "ourPrice": 80,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": “towels”
+    "nameReceipt": “Towels”
   },
 	  {
     "quantity": 0, 
@@ -117,7 +117,7 @@ var itemList = [
     "ourPrice": 85,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": “sanitizer”
+    "nameReceipt": “Sanitizer”
   }
 ]
 
