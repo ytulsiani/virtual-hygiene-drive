@@ -27,7 +27,7 @@ var itemList = [
     "ourPrice": 20,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": “soap”,
+    "nameReceipt": “soap”
   },
 	  {
     "quantity": 0, 
@@ -57,7 +57,7 @@ var itemList = [
     "ourPrice": 35,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": “chapstick”,
+    "nameReceipt": “chapstick”
   },
 	  {
     "quantity": 0, 
@@ -67,7 +67,7 @@ var itemList = [
     "ourPrice": 40,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": “razors”,
+    "nameReceipt": “razors”
   },
 	  {
     "quantity": 0, 
