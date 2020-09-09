@@ -118,6 +118,6 @@ var itemList = [
     "retailPrice": 120,
     "unitsReceipt": "case",
     "nameReceipt": “sanitizer”
-  },
-	]
+  }
+]
 
