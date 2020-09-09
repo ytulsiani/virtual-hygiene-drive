@@ -9,7 +9,7 @@ var itemList = [
     "unitsReceipt": "case",
     "nameReceipt": “Toothbrushes”
   },
-	  {
+  {
     "quantity": 0, 
     "image": "img/mask.png",
     "itemName": "Masks",
@@ -19,7 +19,7 @@ var itemList = [
     "unitsReceipt": "case",
     "nameReceipt": “Masks”
   },
-	  {
+  {
     "quantity": 0, 
     "image": "img/soap.jpg",
     "itemName": "Soap",
@@ -29,7 +29,7 @@ var itemList = [
     "unitsReceipt": "case",
     "nameReceipt": “Soap”
   },
-	  {
+  {
     "quantity": 0, 
     "image": "img/tissue.jpg",
     "itemName": "Tissue",
@@ -39,7 +39,7 @@ var itemList = [
     "unitsReceipt": "case",
     "nameReceipt": “Tissues”
   },
-	  {
+  {
     "quantity": 0, 
     "image": "img/wipes.jpg",
     "itemName": "Wipes",
@@ -49,7 +49,7 @@ var itemList = [
     "unitsReceipt": "case",
     "nameReceipt": “Wipes”
   },
-	  {
+  {
     "quantity": 0, 
     "image": "img/chapstick.jpg",
     "itemName": "Chapstick",
@@ -59,7 +59,7 @@ var itemList = [
     "unitsReceipt": "case",
     "nameReceipt": “Chapstick”
   },
-	  {
+  {
     "quantity": 0, 
     "image": "img/razor.jpg",
     "itemName": "Razors",
@@ -69,7 +69,7 @@ var itemList = [
     "unitsReceipt": "case",
     "nameReceipt": “Razors”
   },
-	  {
+  {
     "quantity": 0, 
     "image": "img/toothpaste.jpg",
     "itemName": "Toothpaste",
@@ -79,7 +79,7 @@ var itemList = [
     "unitsReceipt": "case",
     "nameReceipt": “Toothpaste”
   },
-	  {
+  {
     "quantity": 0, 
     "image": "img/shampoo.jpg",
     "itemName": "Shampoo",
@@ -89,7 +89,7 @@ var itemList = [
     "unitsReceipt": "case",
     "nameReceipt": “Shampoo”
   },
-	  {
+  {
     "quantity": 0, 
     "image": "img/deodorant.png",
     "itemName": "Deodorant",
@@ -99,7 +99,7 @@ var itemList = [
     "unitsReceipt": "case",
     "nameReceipt": “Deodorant”
   },
-	  {
+  {
     "quantity": 0, 
     "image": "img/towels.jpg",
     "itemName": "Towels",
@@ -109,7 +109,7 @@ var itemList = [
     "unitsReceipt": "case",
     "nameReceipt": “Towels”
   },
-	  {
+  {
     "quantity": 0, 
     "image": "img/sanitizer.jpg",
     "itemName": "Hand Sanitizer",
