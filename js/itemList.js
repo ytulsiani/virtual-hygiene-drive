@@ -112,7 +112,7 @@ var itemList = [
     {
     "quantity": 0, 
     "image": "img/clothes.png",
-    "itemName": "Emergency Clothing",
+    "itemName": "Clothing Kit",
     "servingUnits": "one set",
     "ourPrice": 40,
     "retailPrice": 120,
