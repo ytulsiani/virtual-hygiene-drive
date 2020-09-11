@@ -81,6 +81,16 @@ var itemList = [
   },
    {
     "quantity": 0, 
+    "image": "img/shampoo.jpg",
+    "itemName": "Shampoo",
+    "servingUnits": "case of (288)",
+    "ourPrice": 50,
+    "retailPrice": 120,
+    "unitsReceipt": "case",
+    "nameReceipt": "Shampoo"
+  },
+   {
+    "quantity": 0, 
     "image": "img/deodorant.png",
     "itemName": "Deodorant",
     "servingUnits": "case of (192)",
@@ -99,25 +109,15 @@ var itemList = [
     "unitsReceipt": "case",
     "nameReceipt": "Towels"
   },
-   {
+    {
     "quantity": 0, 
-    "image": "img/shampoo.jpg",
-    "itemName": "Shampoo",
-    "servingUnits": "case of (576)",
-    "ourPrice": 100,
+    "image": "img/clothes.png",
+    "itemName": "Emergency Clothing",
+    "servingUnits": "one set",
+    "ourPrice": 40,
     "retailPrice": 120,
-    "unitsReceipt": "case",
-    "nameReceipt": "Shampoo"
-  },
-  {
-    "quantity": 0, 
-    "image": "img/sanitizer.jpg",
-    "itemName": "Hand Sanitizer",
-    "servingUnits": "case of (288)",
-    "ourPrice": 250,
-    "retailPrice": 120,
-    "unitsReceipt": "case",
-    "nameReceipt": "Sanitizer"
+    "unitsReceipt": "set",
+    "nameReceipt": "Clothing"
   }
 ]
 
