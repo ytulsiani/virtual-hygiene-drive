@@ -61,16 +61,6 @@ var itemList = [
   },
   {
     "quantity": 0, 
-    "image": "img/razor.jpg",
-    "itemName": "Razors",
-    "servingUnits": "case of (500)",
-    "ourPrice": 40,
-    "retailPrice": 120,
-    "unitsReceipt": "case",
-    "nameReceipt": "Razors"
-  },
-  {
-    "quantity": 0, 
     "image": "img/toothpaste.jpg",
     "itemName": "Toothpaste",
     "servingUnits": "case of (288)",
@@ -104,10 +94,20 @@ var itemList = [
     "image": "img/towels.jpg",
     "itemName": "Towels",
     "servingUnits": "case of (36)",
-    "ourPrice": 80,
+    "ourPrice": 75,
     "retailPrice": 120,
     "unitsReceipt": "case",
     "nameReceipt": "Towels"
+  },
+    {
+    "quantity": 0, 
+    "image": "img/razor.jpg",
+    "itemName": "Razors",
+    "servingUnits": "case of (1000)",
+    "ourPrice": 100,
+    "retailPrice": 120,
+    "unitsReceipt": "case",
+    "nameReceipt": "Razors"
   },
     {
     "quantity": 0, 
