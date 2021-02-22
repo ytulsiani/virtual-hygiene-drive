@@ -1,43 +1,43 @@
 var itemList = [
   {
     "quantity": 0, 
-    "image": "img/toothbrush.jpg",
-    "itemName": "Toothbrush",
-    "servingUnits": "case of (144)",
+    "image": "img/pads.png",
+    "itemName": "Pads",
+    "servingUnits": "pack of (22)",
+    "ourPrice": 9,
+    "retailPrice": 120,
+    "unitsReceipt": "case",
+    "nameReceipt": "Pads"
+  },
+  {
+    "quantity": 0, 
+    "image": "img/tampons.png",
+    "itemName": "Tampons",
+    "servingUnits": "pack of (50)",
     "ourPrice": 10,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": "Toothbrushes"
+    "nameReceipt": "Tampons"
   },
   {
     "quantity": 0, 
-    "image": "img/mask.png",
-    "itemName": "Masks",
-    "servingUnits": "case of (20)",
-    "ourPrice": 15,
+    "image": "img/liners.png",
+    "itemName": "Daily Liners",
+    "servingUnits": "pack of (162)",
+    "ourPrice": 7,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": "Masks"
+    "nameReceipt": "Daily Liners"
   },
   {
     "quantity": 0, 
-    "image": "img/soap.jpg",
-    "itemName": "Soap",
-    "servingUnits": "case of (72)",
-    "ourPrice": 20,
+    "image": "img/underwear.png",
+    "itemName": "Women's Underwear",
+    "servingUnits": "pack of (6)",
+    "ourPrice": 11,
     "retailPrice": 120,
     "unitsReceipt": "case",
-    "nameReceipt": "Soap"
-  },
-  {
-    "quantity": 0, 
-    "image": "img/tissue.jpg",
-    "itemName": "Tissue",
-    "servingUnits": "case of (150)",
-    "ourPrice": 25,
-    "retailPrice": 120,
-    "unitsReceipt": "case",
-    "nameReceipt": "Tissues"
+    "nameReceipt": "Women's Underwear"
   },
   {
     "quantity": 0, 
