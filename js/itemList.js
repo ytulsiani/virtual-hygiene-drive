@@ -3,8 +3,8 @@ var itemList = [
     "quantity": 0, 
     "image": "img/pads.png",
     "itemName": "Pads",
-    "servingUnits": "pack of (22)",
-    "ourPrice": 9,
+    "servingUnits": "pack of (100)",
+    "ourPrice": 45,
     "retailPrice": 120,
     "unitsReceipt": "case",
     "nameReceipt": "Pads"
@@ -13,8 +13,8 @@ var itemList = [
     "quantity": 0, 
     "image": "img/tampons.png",
     "itemName": "Tampons",
-    "servingUnits": "pack of (50)",
-    "ourPrice": 10,
+    "servingUnits": "pack of (100)",
+    "ourPrice": 25,
     "retailPrice": 120,
     "unitsReceipt": "case",
     "nameReceipt": "Tampons"
@@ -23,8 +23,8 @@ var itemList = [
     "quantity": 0, 
     "image": "img/liners.png",
     "itemName": "Daily Liners",
-    "servingUnits": "pack of (162)",
-    "ourPrice": 7,
+    "servingUnits": "pack of (200)",
+    "ourPrice": 15,
     "retailPrice": 120,
     "unitsReceipt": "case",
     "nameReceipt": "Daily Liners"
@@ -32,9 +32,9 @@ var itemList = [
   {
     "quantity": 0, 
     "image": "img/underwear.png",
-    "itemName": "Women's Underwear",
-    "servingUnits": "pack of (6)",
-    "ourPrice": 11,
+    "itemName": "Underwear",
+    "servingUnits": "pack of (12)",
+    "ourPrice": 20,
     "retailPrice": 120,
     "unitsReceipt": "case",
     "nameReceipt": "Women's Underwear"
